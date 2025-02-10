@@ -24,3 +24,14 @@ header {
     font-size: 24px;
     font-weight: bold;
 }
+
+.titulo1 {
+    text-align: left;
+    padding: 50px 20px;
+    background: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.1;
+    display: inline-block;
+}
