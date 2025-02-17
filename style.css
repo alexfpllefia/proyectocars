@@ -100,10 +100,10 @@ border-radius: 23px;
 
 .cars1 {
 position: absolute;
-width: 1312px;
+width: 1212px;
 height: 457px;
 left: 100px;
-top: 455px;
+top: 500px;
 border-radius: 20px;
 
 }
@@ -203,7 +203,7 @@ position: absolute;
 width: 1311px;
 height: 300px;
 left: 100px;
-top: 1190px;
+top: 1290px;
 }
 
 .cars6 {
@@ -220,7 +220,6 @@ width: 313px;
 height: 76px;
 left: 100px;
 top: 2723px;
-font-family: 'SF Pro Display';
 font-style: normal;
 font-weight: 500;
 font-size: 64px;
@@ -361,6 +360,32 @@ position: absolute;
 width: 177px;
 height: 23px;
 left: 102px;
+top: 3131px;;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+}
+
+.pt22 {
+position: absolute;
+width: 285px;
+height: 66px;
+left: 100px;
+top: 3158px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: justify;
+}
+
+.titulo23{
+position: absolute;
+width: 177px;
+height: 23px;
+left: 439px;
 top: 3131px;
 font-style: normal;
 font-weight: 500;
@@ -368,6 +393,72 @@ font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
 }
+
+.pt23{
+position: absolute;
+width: 285px;
+height: 66px;
+left: 437px;
+top: 3158px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: justify;
+}
+
+.titulo24{
+position: absolute;
+width: 177px;
+height: 23px;
+left: 777px;
+top: 3131px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+}
+
+.pt24 {
+position: absolute;
+width: 285px;
+height: 66px;
+left: 775px;
+top: 3158px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: justify;
+}
+
+.titulo25 {
+position: absolute;
+width: 177px;
+height: 23px;
+left: 1114px;
+top: 3131px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+}
+
+.pt25 {
+position: absolute;
+width: 285px;
+height: 66px;
+left: 1112px;
+top: 3158px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: justify;
+}
+
 
 
 
