@@ -42,6 +42,19 @@ header p {
     font-weight: bold;
 }
 
+.pheader {
+position: absolute;
+width: 86px;
+height: 16px;
+left: 104px;
+top: 196px;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-transform: uppercase;
+}
+
 .titulo1 {
 position: absolute;
 width: 800px;
@@ -83,7 +96,7 @@ border-radius: 23px;
     line-height: 16px;
     text-align: justify;
     color: #000000;
-    }
+}
 
 .cars1 {
 position: absolute;
@@ -349,13 +362,11 @@ width: 177px;
 height: 23px;
 left: 102px;
 top: 3131px;
-font-family: 'SF Pro Display';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
-color: #000000;
 }
 
 
@@ -371,12 +382,9 @@ footer {
     justify-content: space-between;
     align-items: center;
     padding: 30px;
-    background: #fff;
-    border-bottom: 1px solid #ddd;
     display: flex;
     gap: 20px;
     text-decoration: none;
-    color: #000;
     font-weight: bold;
 }
 
@@ -425,13 +433,11 @@ width: 177px;
 height: 23px;
 left: 943px;
 top: 3936px;
-font-family: 'SF Pro Display';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
-color: #000000;
 }
 
 .footer2 {
@@ -454,7 +460,7 @@ width: 211px;
 height: 37px;
 left: 1072px;
 top: 3989px;
-border: 1px solid #000000;
+border: 1px solid;
 border-radius: 23px;
 }
 
@@ -465,7 +471,7 @@ width: 147px;
 height: 37px;
 left: 1072px;
 top: 4045px;
-border: 1px solid #000000;
+border: 1px solid;
 border-radius: 23px;
 }
 
@@ -480,7 +486,6 @@ font-weight: 500;
 font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
-color: #000000;
 }
 
 .footer3 {
